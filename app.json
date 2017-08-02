@@ -1,0 +1,7 @@
+{
+	"name": "nette/heroku-web-project",
+	"description": "A simple skeleton application using the Nette",
+	"repository": "https://github.com/68publishers/web-project",
+	"logo": "https://appio.cz/img/nette.svg",
+	"keywords": ["php", "nette", "framework", "web-project"]
+}

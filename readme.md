@@ -1,6 +1,10 @@
 Nette Web Project
 =================
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+**DO NOT USE** this repo as your project skeleton. It's only for **Heroku Buttton** purpose. Use [nette/web-project](https://github.com/nette/web-project) or [nette/sandbox](https://github.com/nette/sandbox) instead.
+
 This is a simple, skeleton application using the [Nette](https://nette.org). This is meant to
 be used as a starting point for your new projects.
 

@@ -1,6 +1,6 @@
 {
-	"name": "nette/web-project",
-	"description": "Nette: Standard Web Project",
+	"name": "nette/heroku-web-project",
+	"description": "Nette: Standard Web Project runs in Heroku",
 	"keywords": ["nette"],
 	"type": "project",
 	"license": ["MIT", "BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
@@ -22,7 +22,8 @@
 		"tracy/tracy": "^2.4"
 	},
 	"require-dev": {
-		"nette/tester": "^2.0"
+		"nette/tester": "^2.0",
+		"heroku/heroku-buildpack-php": "*"
 	},
 	"minimum-stability": "dev"
 }
